@@ -1,1 +1,1 @@
-Lorem ipsum
+This repo contains a few analysis based on Kaggle datasets
